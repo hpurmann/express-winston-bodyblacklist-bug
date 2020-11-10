@@ -1,0 +1,12 @@
+{
+  "name": "express-winston-bodyblacklist-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hendrik Purmann <h.purmann@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-winston": "^4.0.5",
+    "winston": "^3.3.3"
+  }
+}
