@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Hendrik Purmann <h.purmann@googlemail.com>",
+  "type": "module",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "express-winston": "^4.0.5",
